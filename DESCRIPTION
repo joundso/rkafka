@@ -13,3 +13,4 @@ NeedsCompilation: no
 Repository: CRAN
 Packaged: 2017-06-28 21:31:23 UTC; shruti
 Date/Publication: 2017-06-28 22:01:11 UTC
+RoxygenNote: 7.1.1
